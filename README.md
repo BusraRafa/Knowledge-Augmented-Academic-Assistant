@@ -72,11 +72,11 @@ This approach improves reliability because:
 ## 🗂️ Project Structure
 
 ```
-├── main.py # Core RAG chatbot pipeline (text)
-├── modified_main.py # Enhanced / structured response version
-├── audio_main.py # Voice input + transcription + RAG pipeline
-├── output/ # Generated outputs and processed data
-├── dummy1.mp3 - dummy5.mp3 # Sample audio files for testing
+├── main.py                       # Core RAG chatbot pipeline (text)
+├── modified_main.py              # Enhanced / structured response version
+├── audio_main.py                 # Voice input + transcription + RAG pipeline
+├── output/                       # Generated outputs and processed data
+├── dummy1.mp3 - dummy5.mp3       # Sample audio files for testing
 ```
 
 ---
