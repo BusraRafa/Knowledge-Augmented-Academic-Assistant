@@ -9,6 +9,10 @@ The system is built using a **Retrieval-Augmented Generation (RAG)** approach, c
 
 ---
 
+🌐 Live Website: Visit [clasia.net](https://clasia.io/)
+
+---
+
 ## 🚀 Key Features
 
 - 🤖 **AI Chatbot for Students**
